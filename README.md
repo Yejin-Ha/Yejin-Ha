@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20it's%20Yejin's%20Github&fontSize=60)
-### Hi there 👋
-![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=Yejin-Ha&show_icons=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20Yejin's%20Github👋&fontSize=60)
+<h1 align=center>:computer:Tech-Stack:computer:</h1>
 
+![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=Yejin-Ha&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yejin-Ha)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Yejin-Ha/Yejin-Ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
