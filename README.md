@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20it's%20Yejin's%20Github&fontSize=60)
 ### Hi there 👋
-
 <!--
 **Yejin-Ha/Yejin-Ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
