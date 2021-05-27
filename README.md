@@ -11,10 +11,12 @@
 </div>
 <br>
 <br>
-<h2 align=center>:hatched_chick: How to contact me :hatched_chick:</h2>
+<br>
+<h2 align=center>:hatched_chick: Contact :hatched_chick:</h2>
 <div align=center>
   <img src="https://img.shields.io/badge/-Email-%23EA4335?logo=Gmail&logoColor=white"/>      
 </div>
+<br>
 <br>
 <br>
 
