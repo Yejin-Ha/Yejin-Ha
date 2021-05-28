@@ -2,12 +2,16 @@
 
 <h2 align=center>:computer: My Tech-Stack :computer:</h2>
 <div align=center>
+  Techs that I've used at least once<br>
+  <br>
   <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-react-%2361DAFB?logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white"/>     
-  <img src="https://img.shields.io/badge/-Matlab-%230076A8?logo=Mathworks&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/-Matlab-%230076A8?logo=Mathworks&logoColor=white"/>     <br>
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white"/>       
 </div>
 <br>
 <br>
