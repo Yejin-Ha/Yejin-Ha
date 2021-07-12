@@ -4,6 +4,7 @@
 <div align=center>
   Techs that I've used at least once<br>
   <br>
+  <img src="https://img.shields.io/badge/-Elasticsearch-%23005571?logo=ElasticSearch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Oracle-%23F80000?logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?logo=Jupyter&logoColor=white"/>
