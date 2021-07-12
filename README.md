@@ -25,6 +25,11 @@
 <br>
 <br>
 <br>
+<h2 align=center>:hatched_chick: Visitors ! :hatched_chick:</h2>
+<div align=center>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYejin-Ha%2F&count_bg=%23F1D3E7&title_bg=%23C43AF7&icon=iconify.svg&icon_color=%23000000&title=Visitors&edge_flat=false" />
+</div>
+<br>
 
 ![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=Yejin-Ha&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yejin-Ha&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
