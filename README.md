@@ -4,11 +4,14 @@
 <div align=center>
   Techs that I've used at least once<br>
   <br>
+  <img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-%23000000?logo=Flask&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/-Elasticsearch-%23005571?logo=ElasticSearch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Oracle-%23F80000?logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-react-%2361DAFB?logo=React&logoColor=white"/>    <br>
+  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?logo=Jupyter&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/-react-%2361DAFB?logo=React&logoColor=white"/>   
   <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white"/>     
   <img src="https://img.shields.io/badge/-Matlab-%230076A8?logo=Mathworks&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>     
