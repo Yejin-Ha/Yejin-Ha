@@ -29,8 +29,10 @@
 <br>
 <br>
 <h2 align=center>:hatched_chick: Trophy ! :hatched_chick:</h2>
-![trophy](https://github-profile-trophy.vercel.app/?username=Yejin-Ha)
-<br>
+<div align=center>
+  <img src='https://github-profile-trophy.vercel.app/?username=Yejin-Ha' />
+</div>
+<br><br>
 
 ![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=Yejin-Ha&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yejin-Ha&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
